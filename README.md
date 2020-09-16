@@ -4,7 +4,7 @@
 ## Oi 👋
 Meu nome é Lucas e sou graduando de Ciência da Computação na Universidade Federal de Santa Catarina 🎓
 
-Um FullStack Developer apaixonado por criar soluções que façam os olhos das pessoas brilharem ✨
+Um Desenvolvedor Full Stack apaixonado por criar soluções que façam os olhos das pessoas brilharem ✨
 
  🔬 &nbsp; Estou trabalhando no [**CovidApp**](https://covidapp.ufsc.br/) como bolsista da UFSC para ajudar a desenvolver uma versão do app voltada para o ecossistema da universidade
  <br/><br/> 💙 &nbsp; Buscando colaborar com projetos envolvendo Back-end em Node.js ou Front-end em React
@@ -19,7 +19,7 @@ Um FullStack Developer apaixonado por criar soluções que façam os olhos das p
 ## Hi there 👋
 My name is Lucas and I'm studying for a bachelor's degree in Computer Science at the Federal University of Santa Catarina 🎓
 
-A FullStack Developer passionate about creating solutions that make people's eyes shine ✨
+A Full Stack Developer passionate about creating solutions that make people's eyes light up ✨
 
  🔬 &nbsp; I'm working on the [**CovidApp**](https://covidapp.ufsc.br/) with a team from UFSC to help develop a version of the app for the university ecosystem
  <br/><br/> 💙 &nbsp; Looking for opportunities to collaborate on projects involving Back-end with Node.js or Front-end with React
