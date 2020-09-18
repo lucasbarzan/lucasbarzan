@@ -2,11 +2,12 @@
 # Lucas Barzan
 
 ## Oi 👋
-Meu nome é Lucas e sou graduando de Ciência da Computação na Universidade Federal de Santa Catarina 🎓
+Meu nome é Lucas. Sou Desenvolvedor Full Stack e estudante de Ciência da Computação na Universidade Federal de Santa Catarina 🎓
 
-Um Desenvolvedor Full Stack apaixonado por criar soluções que façam os olhos das pessoas brilharem ✨
+Apaixonado por criar soluções que façam os olhos das pessoas brilharem ✨
 
- 🔬 &nbsp; Estou trabalhando no [**CovidApp**](https://covidapp.ufsc.br/) como bolsista da UFSC para ajudar a desenvolver uma versão do app voltada para o ecossistema da universidade
+💡 &nbsp; Compartilho o que estou aprendendo, meus projetos e novidades sobre tecnologia no meu blog: [lucasbarzan.com](https://lucasbarzan.com/)
+  <br/><br/> 🔬 &nbsp; Estou trabalhando no [**CovidApp**](https://covidapp.ufsc.br/) como bolsista da UFSC para ajudar a desenvolver uma versão do app voltada para o ecossistema da universidade
  <br/><br/> 💙 &nbsp; Buscando colaborar com projetos envolvendo Back-end em Node.js ou Front-end em React
  <br/><br/> 💻 &nbsp; Minha stack: Node.js, ReactJS, React Native & Typescript (mas desenvolvimento Android nativo tem um lugar no meu 💚)
  <br/><br/> 🦄 &nbsp; Sobre mim: Amo sair com xs amigxs 👯 mas não deixo de assistir uma Netflix 🍿
@@ -17,11 +18,12 @@ Um Desenvolvedor Full Stack apaixonado por criar soluções que façam os olhos 
 ---
 
 ## Hi there 👋
-My name is Lucas and I'm studying for a bachelor's degree in Computer Science at the Federal University of Santa Catarina 🎓
+My name is Lucas. I'm a Full Stack Developer and Computer Science Student at the Federal University of Santa Catarina 🎓
 
-A Full Stack Developer passionate about creating solutions that make people's eyes light up ✨
+I'm passionate about creating solutions that make people's eyes light up ✨
 
- 🔬 &nbsp; I'm working on the [**CovidApp**](https://covidapp.ufsc.br/) with a team from UFSC to help develop a version of the app for the university ecosystem
+💡 &nbsp; I share what I'm learning, my projects and tech stuff on my blog: [lucasbarzan.com](https://lucasbarzan.com/)
+ <br/><br/> 🔬 &nbsp; I'm working on the [**CovidApp**](https://covidapp.ufsc.br/) with a team from UFSC to help develop a version of the app for the university ecosystem
  <br/><br/> 💙 &nbsp; Looking for opportunities to collaborate on projects involving Back-end with Node.js or Front-end with React
  <br/><br/> 💻 &nbsp; My stack: Node.js, ReactJS, React Native & Typescript (but native Android Development has a special place in my 💚)
  <br/><br/> 🦄 &nbsp; About me: I love to hang out with my friends 👯 but binge-watching is fun too 🍿
