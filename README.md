@@ -2,8 +2,8 @@
 # Lucas Barzan
 
 Oi, meu nome é Lucas! 👋
- <br/><br/> 💼 &nbsp; Atualmente trabalho num squad de devs para desenvolver – do zero à produção – uma plataforma de empréstimo consignado privado para uma fintech brasileira, em um projeto desafiador que envolve arquitetura de microsserviços, integrações com APIs externas, Node.js, Vue.js e testes automatizados.
- <br/><br/> 🎓 &nbsp; Também estudo Ciência da Computação na UFSC (Universidade Federal de Santa Catarina)
+ <br/><br/> 💼 &nbsp; Atualmente trabalho num squad de devs desenvolvendo uma plataforma de empréstimo consignado privado para uma fintech brasileira, em um projeto desafiador que envolve arquitetura de microsserviços, integrações com APIs externas, Node.js, Vue.js e testes automatizados.
+ <br/><br/> 🎓 &nbsp; Sou formado em Ciência da Computação pela UFSC (Universidade Federal de Santa Catarina)
  <br/><br/> Criador do 🍅 Pomozzo (https://pomozzo.com/) e do 💰 Contador de Moedas e Notas (https://play.google.com/store/apps/details?id=com.lucasbarzan.contadordemoedasenotas).
 <br/><br/> 💡 &nbsp; Compartilho meus projetos e o que estou aprendendo no meu blog: https://lucasbarzan.com
  <br/><br/> 👨🏻‍💻 &nbsp; Minha stack é principalmente: Node.js, React, JavaScript & TypeScript
@@ -15,8 +15,8 @@ Oi, meu nome é Lucas! 👋
 ## Hi there 👋
 
 Oi, meu nome é Lucas! 👋
- <br/><br/> 💼 &nbsp; I currently work in a dev squad to develop – from scratch to production – a private payroll loan platform for a Brazilian fintech, in a challenging project that involves microservices architecture, integrations with external APIs, Node.js, Vue.js, and automated tests.
- <br/><br/> 🎓 &nbsp; I also study Computer Science at UFSC (Federal University of Santa Catarina)
+ <br/><br/> 💼 &nbsp; I currently work in a squad that develops a private payroll loan platform for a Brazilian fintech, in a challenging project that involves microservices architecture, integrations with external APIs, Node.js, Vue.js, and automated tests.
+ <br/><br/> 🎓 &nbsp; I have a degree in Computer Science from UFSC (Federal University of Santa Catarina)
  <br/><br/> Creator of 🍅 Pomozzo (https://pomozzo.com/) and 💰 Coins & Notes Counter (https://play.google.com/store/apps/details?id=com.lucasbarzan.contadordemoedasenotas).
 <br/><br/> 💡 &nbsp; I share my projects and what I'm learning on my blog: https://lucasbarzan.com
  <br/><br/> 👨🏻‍💻 &nbsp; My stack is mainly: Node.js, React, JavaScript & TypeScript
